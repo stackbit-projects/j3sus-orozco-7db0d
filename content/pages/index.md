@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hola, Soy Jesús Orozco. Desarrollador Front-end.'
     content: >
-      ### Soy un un desarrollador Front-end con 2 años de experiencia creando
+      #### Soy un un desarrollador Front-end con 2 años de experiencia creando
       projectos personales.
     actions:
       - label: Let's talk
